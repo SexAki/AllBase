@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "e0a0bed15295ee3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8606346b23e3e0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5df87e7ebfe4ab82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024/Projects/Test Projects/Система рекомандации/Система рекомендации(на анализе исходного текста).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7c7a3bec5e1426c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1577e01fe3622ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3044b1272c0ba746",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cc1e74740c05e7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e55b46adbf311c2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5
+  },
+  "right": {
+    "id": "16b4b1c7c5d27de2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d91166a764621854",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e631dd8b2429cad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024/Projects/Test Projects/Система рекомандации/Система рекомендации(на анализе исходного текста).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c2f8c3b39a8fd4e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024/Projects/Test Projects/Система рекомандации/Система рекомендации(на анализе исходного текста).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad1ffd3d1b1c5c1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a6b788d014569b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024/Projects/Test Projects/Система рекомандации/Система рекомендации(на анализе исходного текста).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "5df87e7ebfe4ab82",
+  "lastOpenFiles": [
+    "2024/Projects/Test Projects/Система рекомандации/test.py",
+    "2024/Projects/Test Projects/Система рекомандации/RS-book.py",
+    "2024/Projects/Test Projects/Система рекомандации/Recommendation_system.py",
+    "2024/Projects/Test Projects/Система рекомандации/SR.py",
+    "Pasted image 20240909205359.png",
+    "2024/Projects/Test Projects/Система рекомандации/Система рекомендации(на анализе исходного текста).md",
+    "Pasted image 20240909205333.png",
+    "Pasted image 20240909205421.png",
+    "Pasted image 20240909205413.png",
+    "Pasted image 20240909205402.png",
+    "2024/Education/PNU/3 курс/Интеллектуальные информационные системы/Практика/ПР - №1/Искуссвтвенный интеллект  в  Юриспруденции.md",
+    "2024/Projects/Test Projects/Сглаживание/game.py",
+    "2024/Projects/Test Projects/Сглаживание/Новый текстовый документ.txt",
+    "2024/Projects/Test Projects/Сглаживание/test2.py",
+    "2024/Projects/Test Projects/Сглаживание/Новый ярлык.lnk",
+    "2024/Projects/Test Projects/Сглаживание/test1.py",
+    "2024/Projects/Test Projects/Сглаживание/test.py",
+    "2024/Projects/Test Projects/Сглаживание",
+    "2024/Education/Personal/Programming/Без названия.md",
+    "создайте ссылку.md",
+    "Добро пожаловать.md"
+  ]
+}
