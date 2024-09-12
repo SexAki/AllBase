@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/Projects/Test Projects/Аналитика 1/Анализ стоимости нефти 1987 - 2023.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/Projects/Test Projects/Аналитика 1/Анализ стоимости нефти 1987 - 2023.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/Projects/Test Projects/Аналитика 1/Анализ стоимости нефти 1987 - 2023.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/Projects/Test Projects/Аналитика 1/Анализ стоимости нефти 1987 - 2023.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "5df87e7ebfe4ab82",
   "lastOpenFiles": [
-    "2024/Projects/Test Projects/Аналитика 1/analyst oil.py",
     "2024/Projects/Test Projects/Аналитика 1/Анализ стоимости нефти 1987 - 2023.md",
+    "2024/Projects/Test Projects/Аналитика 1/analyst oil.py",
     "2024/Projects/Test Projects/Система рекомандации/test.py",
     "2024/Projects/Test Projects/Система рекомандации/RS-book.py",
     "2024/Projects/Test Projects/Система рекомандации/Recommendation_system.py",
@@ -166,7 +166,6 @@
     "2024/Projects/Test Projects/Сглаживание/test2.py",
     "2024/Projects/Test Projects/Сглаживание/Новый ярлык.lnk",
     "2024/Projects/Test Projects/Сглаживание/test1.py",
-    "2024/Projects/Test Projects/Сглаживание/test.py",
     "2024/Education/Personal/Programming/Без названия.md",
     "создайте ссылку.md",
     "Добро пожаловать.md"
