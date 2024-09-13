@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d8606346b23e3e0b",
+        "id": "5d58347751e62568",
         "type": "tabs",
         "children": [
           {
-            "id": "5df87e7ebfe4ab82",
+            "id": "9d2d83e9c49f6ad7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5df87e7ebfe4ab82",
+  "active": "9d2d83e9c49f6ad7",
   "lastOpenFiles": [
+    "2024/Projects/Pet-Projects/Data Science/Система рекомандации/Система рекомендации(на анализе исходного текста).md",
     "2024/Projects/Test Projects/Аналитика 1/Анализ стоимости нефти 1987 - 2023.md",
+    "README.md",
     "2024/Projects/Test Projects/Аналитика 1/analyst oil.py",
     "2024/Projects/Test Projects/Система рекомандации/test.py",
     "2024/Projects/Test Projects/Система рекомандации/RS-book.py",
