@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5d58347751e62568",
+        "id": "130f5321a644cd01",
         "type": "tabs",
         "children": [
           {
-            "id": "9d2d83e9c49f6ad7",
+            "id": "f579195a101d939b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,9 +138,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9d2d83e9c49f6ad7",
+  "active": "f579195a101d939b",
   "lastOpenFiles": [
     "2024/Projects/Pet-Projects/Data Science/Система рекомандации/Система рекомендации(на анализе исходного текста).md",
+    "2024/Education/Data Science/Тренеровочные задания и решения/Задание 2 - Визуализация Mathlib/Корреляция.md",
+    "2024/Education/Data Science/Тренеровочные задания и решения/Задание 2 - Визуализация Mathlib/Формула Корреляции.png",
     "2024/Projects/Test Projects/Аналитика 1/Анализ стоимости нефти 1987 - 2023.md",
     "README.md",
     "2024/Projects/Test Projects/Аналитика 1/analyst oil.py",
