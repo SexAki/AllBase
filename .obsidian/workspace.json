@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "130f5321a644cd01",
+        "id": "d42cbc86c0a708d8",
         "type": "tabs",
         "children": [
           {
-            "id": "f579195a101d939b",
+            "id": "796f63718a8eb69d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f579195a101d939b",
+  "active": "796f63718a8eb69d",
   "lastOpenFiles": [
+    "Results/2024/Цели.md",
     "2024/Projects/Pet-Projects/Data Science/Система рекомандации/Система рекомендации(на анализе исходного текста).md",
     "2024/Education/Data Science/Тренеровочные задания и решения/Задание 2 - Визуализация Mathlib/Корреляция.md",
     "2024/Education/Data Science/Тренеровочные задания и решения/Задание 2 - Визуализация Mathlib/Формула Корреляции.png",
