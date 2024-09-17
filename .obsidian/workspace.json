@@ -11,8 +11,12 @@
             "id": "796f63718a8eb69d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024/Education/Data Science/Тренеровочные задания и решения/Задание 3 - Линейная регрессия/Линейная регрессия.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024/Education/Data Science/Тренеровочные задания и решения/Задание 3 - Линейная регрессия/Линейная регрессия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024/Education/Data Science/Тренеровочные задания и решения/Задание 3 - Линейная регрессия/Линейная регрессия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024/Education/Data Science/Тренеровочные задания и решения/Задание 3 - Линейная регрессия/Линейная регрессия.md"
+              }
             }
           }
         ]
@@ -138,11 +146,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "796f63718a8eb69d",
+  "active": "3044b1272c0ba746",
   "lastOpenFiles": [
+    "2024/Education/Data Science/Тренеровочные задания и решения/Задание 3 - Линейная регрессия/Новая папка/usdrub_m.csv",
+    "2024/Education/Data Science/Тренеровочные задания и решения/Задание 3 - Линейная регрессия/Новая папка/usdrub_m (1).csv",
+    "2024/Education/Data Science/Тренеровочные задания и решения/Задание 3 - Линейная регрессия/Новая папка/brent-monthly~53B68.tmp",
+    "2024/Education/Data Science/Тренеровочные задания и решения/Задание 3 - Линейная регрессия/Новая папка/brent-monthly.csv",
+    "2024/Education/Data Science/Тренеровочные задания и решения/Задание 3 - Линейная регрессия/Новая папка/script.py",
+    "2024/Education/Data Science/Тренеровочные задания и решения/Задание 3 - Линейная регрессия/Новая папка",
+    "2024/Education/Data Science/Тренеровочные задания и решения/Задание 3 - Линейная регрессия/script.py",
+    "2024/Education/Data Science/Тренеровочные задания и решения/Задание 2 - Визуализация Mathlib/Корреляция.md",
+    "2024/Education/Data Science/Тренеровочные задания и решения/Задание 3 - Линейная регрессия/Линейная регрессия.md",
     "Results/2024/Цели.md",
     "2024/Projects/Pet-Projects/Data Science/Система рекомандации/Система рекомендации(на анализе исходного текста).md",
-    "2024/Education/Data Science/Тренеровочные задания и решения/Задание 2 - Визуализация Mathlib/Корреляция.md",
     "2024/Education/Data Science/Тренеровочные задания и решения/Задание 2 - Визуализация Mathlib/Формула Корреляции.png",
     "2024/Projects/Test Projects/Аналитика 1/Анализ стоимости нефти 1987 - 2023.md",
     "README.md",
@@ -150,7 +166,6 @@
     "2024/Projects/Test Projects/Система рекомандации/test.py",
     "2024/Projects/Test Projects/Система рекомандации/RS-book.py",
     "2024/Projects/Test Projects/Система рекомандации/Recommendation_system.py",
-    "2024/Projects/Test Projects/Система рекомандации/SR.py",
     "Pasted image 20240909205359.png",
     "2024/Projects/Test Projects/Система рекомандации/Система рекомендации(на анализе исходного текста).md",
     "Pasted image 20240909205333.png",
@@ -158,11 +173,6 @@
     "Pasted image 20240909205413.png",
     "Pasted image 20240909205402.png",
     "2024/Education/PNU/3 курс/Интеллектуальные информационные системы/Практика/ПР - №1/Искуссвтвенный интеллект  в  Юриспруденции.md",
-    "2024/Projects/Test Projects/Сглаживание/game.py",
-    "2024/Projects/Test Projects/Сглаживание/Новый текстовый документ.txt",
-    "2024/Projects/Test Projects/Сглаживание/test2.py",
-    "2024/Projects/Test Projects/Сглаживание/Новый ярлык.lnk",
-    "2024/Projects/Test Projects/Сглаживание/test1.py",
     "2024/Education/Personal/Programming/Без названия.md",
     "создайте ссылку.md",
     "Добро пожаловать.md"
