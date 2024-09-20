@@ -4,12 +4,12 @@ special=['_', '-', '{','}','[',']','_','@','(',')','$','%','+','.', '*', '?', '"
 
 def pass_gen(alphabets=alphabets,special=special):
     result = ''
-    for i in range(0,19):
+    for i in range(0,18):
         randoms = random.randint(1,6)
-        if randoms < 3:
+        if randoms <= 3:
             id = random.randint(0, len(alphabets)-1)
             result += str(alphabets[id])
-        if randoms > 5:
+        if randoms >= 4:
             id = random.randint(0, len(alphabets)-1)
             result += str(alphabets[id]).lower()
         if randoms == 5:
@@ -18,4 +18,6 @@ def pass_gen(alphabets=alphabets,special=special):
         if i == 17:
             return result
 
-print(f'Password: {pass_gen(alphabets,special)}')           
+password = pass_gen(alphabets,special)
+
+print(f'Your Password: {password} | len={len(password)}')
