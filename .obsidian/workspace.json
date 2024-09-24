@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/Education/Data_Science/Тренеровочные_задания_и_решения/Задание4-Нейросети/Нейросети.md",
+                "file": "Results/Цели за всё время.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/Education/Data_Science/Тренеровочные_задания_и_решения/Задание4-Нейросети/Нейросети.md",
+                "file": "Results/Цели за всё время.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/Education/Data_Science/Тренеровочные_задания_и_решения/Задание4-Нейросети/Нейросети.md",
+                "file": "Results/Цели за всё время.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/Education/Data_Science/Тренеровочные_задания_и_решения/Задание4-Нейросети/Нейросети.md"
+                "file": "Results/Цели за всё время.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "3730f362011dde46",
   "lastOpenFiles": [
-    "2024/Education/Data_Science/Тренеровочные_задания_и_решения/Задание3-Линейная_регрессия/Линейная регрессия.md",
     "2024/Education/Data_Science/Тренеровочные_задания_и_решения/Задание4-Нейросети/Нейросети.md",
+    "Results/Цели за всё время.md",
+    "2024/Education/Data_Science/Тренеровочные_задания_и_решения/Задание3-Линейная_регрессия/Линейная регрессия.md",
     "2024/Education/Data_Science/Тренеровочные_задания_и_решения/Задание2-Визуализация_Mathlib/Корреляция.md",
     "2024/Education/Data Science/Тренеровочные задания и решения/Задание 3 - Линейная регрессия/Линейная регрессия.md",
     "2024/Education/Data Science/Тренеровочные задания и решения/Задание 3 - Линейная регрессия/Новая папка/usdrub_m.csv",
